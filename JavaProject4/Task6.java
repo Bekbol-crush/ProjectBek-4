@@ -22,8 +22,6 @@ public class Task6 {
                 primeCount++;
             }
         }
-
-        // Вывод результата
         System.out.println("Prime Count = " + primeCount);
     }
 }
